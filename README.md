@@ -3,7 +3,7 @@
 A new Flutter project.
 
 
-Spring Boot后端在:[backend](https://github.com/brainbrain29/backend)。
+Spring Boot后端在：[backend](https://github.com/brainbrain29/backend)。
 
 
 你要不点进去看看呢
